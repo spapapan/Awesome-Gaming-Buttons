@@ -1,7 +1,7 @@
 # Awesome-Gaming-Buttons
 This is a presentation of an Android library for creating and controlling <b>game buttons</b> easily
 
-<img src="https://scontent.fath3-4.fna.fbcdn.net/v/t1.0-9/94127896_1923381487794747_8468148200161673216_o.jpg?_nc_cat=107&_nc_sid=8024bb&_nc_ohc=wRqfjCwNOvAAX_X4Lgj&_nc_ht=scontent.fath3-4.fna&oh=a3c33aad297946f06265d1a91d2d496c&oe=5EC09353" />
+<img src="https://codecanyon.img.customer.envatousercontent.com/files/286745448/590x300.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=ed6a42c5b35d3f0c34cea5a384e6718c" />
  
 
 It's a plug and play solution with more than 400 ready to use media assets, 
